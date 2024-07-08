@@ -4,7 +4,7 @@ Implementation of the SH1106 LCD controller with esp_lcd component.
 
 | LCD controller | Communication interface | Component name | Link to datasheet |
 | :------------: | :---------------------: | :------------: | :---------------: |
-| SH1106         | I2C                     | esp_lcd_sh1106 | [WIKI](https://www.waveshare.com/wiki/1.3inch_OLED_Module_(C)) |
+| SH1106         | I2C                     | esp_lcd_sh1106 | [WIKI]([(https://cdn.velleman.eu/downloads/29/infosheets/sh1106_datasheet.pdf)]) |
 
 ## Add to project
 
